@@ -1,0 +1,14 @@
+{
+  "name": "spnshare-server",
+  "version": "1.0.0",
+  "description": "SPNShare signaling server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "latest",
+    "express": "latest",
+    "socket.io": "latest"
+  }
+}
